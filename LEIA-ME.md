@@ -22,3 +22,6 @@ A página de contato agora é `contato.html`, acessada pelo menu em todas as pá
 - `contato.html`: agora usa no topo a mesma fotografia do `index.html` (`assets/foto-drone.jpg`).
 - `historia.html`: fotografia aérea (`assets/vista-aerea-historia.jpg`) apenas no banner superior, com desfoque leve; removido o fundo fotográfico do restante da página.
 - Conteúdo, carrosséis e demais páginas mantidos.
+
+
+Atualização: menu móvel no canto superior esquerdo, com logo deslocada para evitar sobreposição.
